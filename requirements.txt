@@ -1,0 +1,5 @@
+tweepy==4.16.0
+transformers==4.35.2
+torch==2.1.0
+openai==0.27.10
+python-dotenv==1.0.0
